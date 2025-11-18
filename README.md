@@ -74,7 +74,7 @@ Uygulama 5 ana adımda çalışır:
 
 [![asciicast](https://asciinema.org/a/qeYdiAxsft8160c66mAc40Cjc.svg)](https://asciinema.org/a/qeYdiAxsft8160c66mAc40Cjc)
 
-<script src="https://asciinema.org/a/qeYdiAxsft8160c66mAc40Cjc.js" id="asciicast-qeYdiAxsft8160c66mAc40Cjc" async="true"></script>
+
 
 ### Toplanan Veriler
 
