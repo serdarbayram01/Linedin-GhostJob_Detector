@@ -1,0 +1,4 @@
+# Browser Console JavaScript yöntemi için gerekli değil
+# Otomatik analyzer için gerekli
+selenium>=4.0.0
+webdriver-manager>=3.8.0

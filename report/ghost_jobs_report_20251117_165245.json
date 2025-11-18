@@ -1,0 +1,94 @@
+[
+  {
+    "link": "https://www.linkedin.com/jobs/view/4267458790/",
+    "title": "Senior System Admin ( Microsoft and VMWare )",
+    "company": "ICBC Turkey",
+    "location": "Turkey",
+    "posted_date": "1 ay önce",
+    "applicants": "100 başvurudan fazla",
+    "recruiter_info": "İşe alım uzmanı tarafından tanıtılıyor",
+    "response_insight": "Henüz yanıt içgörüsü yok",
+    "job_description": "",
+    "work_type": "",
+    "employment_type": "Full-time",
+    "salary": "",
+    "posting_status": "Yeniden Yayınlandı",
+    "analysis": {
+      "risk_score": 10,
+      "detailed_score": 9.0,
+      "final_score": 9.5,
+      "is_ghost_job": true,
+      "indicators": [
+        "30+ gün açık + yeniden yayınlandı (çok şüpheli)",
+        "İlan 30+ gün açık (şüpheli)",
+        "Çok fazla başvuru (100 başvurudan fazla)",
+        "30+ gün açık + yüksek başvuru ama yanıt yok (hareketsizlik)",
+        "30+ gün açık ama maaş bilgisi yok (şeffaflık eksikliği)",
+        "30+ gün açık + yanıt içgörüsü yok (iletişim gecikmesi)",
+        "30+ gün açık + genel lokasyon (sadece ülke)",
+        "30+ gün açık + işe alım uzmanı tanıtımı + yüksek başvuru (şüpheli)"
+      ],
+      "date_analysis": {
+        "months_old": 1,
+        "days_old": 30,
+        "risk": 1,
+        "text": "1 ay önce"
+      },
+      "applicant_analysis": {
+        "count": 100,
+        "risk": 3,
+        "text": "100 başvurudan fazla"
+      },
+      "detailed_analysis": {
+        "date_analysis": {
+          "months_old": 1,
+          "days_old": 30,
+          "risk": 1,
+          "text": "1 ay önce"
+        },
+        "applicant_analysis": {
+          "count": 100,
+          "risk": 3,
+          "text": "100 başvurudan fazla"
+        }
+      },
+      "ghost_parameters": {
+        "posting_duration": {
+          "days_old": 30,
+          "level": "low_risk",
+          "threshold_exceeded": false
+        },
+        "job_description_quality": {
+          "has_description": false,
+          "description_length": 0,
+          "is_too_short": "",
+          "has_vague_phrases": false,
+          "too_broad_scope": false,
+          "combined_irrelevant_responsibilities": false
+        },
+        "communication_delay": {
+          "no_feedback": true,
+          "days_without_feedback": 30,
+          "threshold_exceeded": true
+        },
+        "salary_transparency": {
+          "salary_provided": false,
+          "salary_range_accuracy": "unknown"
+        },
+        "requirement_anomalies": {
+          "senior_experience_for_junior_title": false,
+          "unrealistic_years_of_experience": false,
+          "mixed_role_expectations": false
+        },
+        "high_applicants_no_movement": {
+          "applicant_count": 100,
+          "has_high_applicants": true,
+          "has_response_insight": false,
+          "is_suspicious": true
+        }
+      },
+      "is_old_posting": true,
+      "days_old": 30
+    }
+  }
+]
